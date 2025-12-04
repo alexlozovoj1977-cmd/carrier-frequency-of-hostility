@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor backups
+*~
+*.swp
+*.swo
+
+# LaTeX build artifacts (if you add sources later)
+*.aux
+*.log
+*.out
+*.toc
+*.pdfsync
